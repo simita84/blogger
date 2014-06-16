@@ -15,7 +15,7 @@ gem 'coffee-rails', '~>4.0.0'
 # Replaces "gem 'uglifier', '~>1.0.3'"
 gem 'uglifier', '>=1.3.0'
 
-gem 'sqlite3'
+gem 'mysql2'
 gem 'jquery-rails'
 
 
